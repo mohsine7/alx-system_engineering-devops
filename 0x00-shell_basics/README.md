@@ -1,0 +1,1 @@
+this is readme fo shell basics tasks
